@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="testng-7.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Knowledge/Instrumetals/Java Development Kit/jar/testng-7.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Knowledge/Instrumetals/Java Development Kit/jar/testng-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Knowledge/Instrumetals/Java Development Kit/jar/apache-logging-log4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

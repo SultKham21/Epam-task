@@ -1,0 +1,17 @@
+2021-06-09 11:53:24 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-09 11:53:24 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-09 11:53:24 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-09 11:53:24 INFO  Sorting:47 - Bubble sort is complete
+2021-06-09 11:53:24 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-09 11:53:24 INFO  Sorting:89 - Insert sort is complete
+2021-06-09 11:53:24 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-09 11:53:24 INFO  Sorting:75 - Shaker sort is complete
+2021-06-09 11:53:24 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-09 11:53:24 INFO  Sorting:96 - Sorting use InrStream is complete
+2021-06-09 11:53:24 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-09 11:53:24 INFO  Sorting:24 - Elements with even indexes was swapping with odd
+2021-06-10 17:49:47 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-10 17:49:47 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-10 17:49:47 INFO  CustomArrayGenerate:28 - Generate CustomArray list is successful
+2021-06-10 17:49:47 INFO  CustomArray:25 - CustomArray has been initialized
+2021-06-10 17:49:47 ERROR CustomArrayGenerate:20 - ArrayList is empty
